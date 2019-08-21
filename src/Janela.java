@@ -114,6 +114,7 @@ public class Janela extends javax.swing.JDialog {
         if (this.opcoes.getSelectedIndex() == 0) {    //SOMA
             
             System.out.println("SOMA");
+            System.out.println("SOMA");
             
         } else {                                      //SUBTRAÇÃO
             
