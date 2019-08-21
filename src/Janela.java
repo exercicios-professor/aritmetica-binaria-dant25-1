@@ -112,9 +112,13 @@ public class Janela extends javax.swing.JDialog {
 
     private void enterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_enterActionPerformed
         if (this.opcoes.getSelectedIndex() == 0) {    //SOMA
+            
             System.out.println("SOMA");
+            
         } else {                                      //SUBTRAÇÃO
+            
             System.out.println("SUBTRAÇÃO");
+            
         }
     }//GEN-LAST:event_enterActionPerformed
 
